@@ -36,7 +36,8 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-https://i.imgur.com/MmFWWTV.gif
+![project1AnimationAND101](https://github.com/SwiftCode123/Hello_Squirrel/assets/94758977/226aa07a-d0f3-47e3-807d-21752f53c3f2)
+https://i.imgur.com/MmFWWTV.gif (if above link doesn't work the try this one)
 
 GIF created with ScreenToGif
 
