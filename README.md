@@ -36,7 +36,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/a/w0DyDOg)' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://imgur.com/a/w0DyDOg' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with ScreenToGif
 
@@ -48,6 +48,10 @@ GIF created with ScreenToGif
 ## Notes
 
 Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+- Basic changing of text
+- Navigation through the files
+- How to run the emulator
+- Debugging when the emulator wasn't working and using my resources
 
 ## License
 
