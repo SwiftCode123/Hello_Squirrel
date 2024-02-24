@@ -36,7 +36,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://imgur.com/a/w0DyDOg' title='Video Demo' width='' alt='Video Demo' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Glc7xtl"  ><a href="//imgur.com/a/Glc7xtl">AND101 Project 1</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with ScreenToGif
 
